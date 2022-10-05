@@ -16,14 +16,15 @@ The organization desires a dashboard that displays a snapshot of employee data i
 Purpose: To provide previously unseen insights for the HR team in order to enhance decision-making and to automate them in order to save manual time spent on data collection.
 
 >## The Stakeholders Include:
-CEO
-Human resourses Team
-Data & Analytics Team
-IT
+- CEO
+- Human resourses Team
+- Data & Analytics Team
+- IT
 
-##End result
+## End result
 An automated dashboard that provides rapid and up-to-date HR analytics to enable data-driven employee choices.
-##Success
+
+## Success
 Dashboards that reveal HR insights using the most recent data available
 HR staff is capable of making decisions
 The HR staff stopped manually gathering data in order to save company time and reinvest it in value-added initiatives.
